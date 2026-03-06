@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center">Fadi king </h1>
 
 <img align="center" height="auto"
 src="https://dabby.vercel.app/submenu.png">
@@ -85,7 +85,7 @@ src="https://dabby.vercel.app/submenu.png">
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-> `POWERED BY MR FRANK OFC 🇿🇼`
+> `POWERED BY MR Fadi OMG`
 ##
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
