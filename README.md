@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Fadi king </h1>
+<h1 align="center">FADI KING</h1>
 
 <img align="center" height="auto"
 src="https://dabby.vercel.app/submenu.png">
