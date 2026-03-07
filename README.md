@@ -1,4 +1,4 @@
-<!--SUBZERO V5 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
+<!--fadi V5 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
 
 
 
@@ -17,12 +17,12 @@ src="https://dabby.vercel.app/submenu.png">
 
  <p align="center">
 <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/FADI KING-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfrankofcc/SUBZERO-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/rfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/rfrankofcc/Fadi MD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/FADI-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/mrfr8nk.svg"></a>&nbsp;&nbsp;</a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/mrfrankofcc/Fadi MD-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mrfr8nk&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
